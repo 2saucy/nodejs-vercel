@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-vercel",
+  "version": "1.0.0",
+  "description": "Deploy nodejs express app to vercel",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2saucy/nodejs-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2saucy/nodejs-vercel/issues"
+  },
+  "homepage": "https://github.com/2saucy/nodejs-vercel#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
